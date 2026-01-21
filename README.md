@@ -18,16 +18,23 @@ This application can be further enhanced to include
 **Key functionalities:**
 
 •	Real-time monitoring of parking spots.
+
 •	Notifications about available spots (via mobile apps or dashboards).
+
 •	Dynamic pricing based on occupancy and demand.
+
 •	Data-driven decision-making for parking facility management.
+
 •	Vehicle entry/exit tracking and payment monitoring.
 
 **Users of the system:**
 
 •	Parking Facility Operators: For managing parking spaces, optimizing resource allocation, and monitoring occupancy.
+
 •	Drivers/Users: For receiving notifications about available spots, making reservations, and tracking payment status.
+
 •	City Planners/Urban Developers: To gain insights into parking utilization trends, occupancy patterns, and related infrastructure requirements.
+
 •	Electric Vehicle (EV) Users: To find available EV charging stations and spots.
 
 The IoT application/system fits into the Smart City industry. It provides a real-time solution for managing urban parking infrastructure, optimizing parking space usage, reducing congestion, and improving the efficiency of city transportation networks.
@@ -35,7 +42,9 @@ The IoT application/system fits into the Smart City industry. It provides a real
 In the **context of Smart Cities**, the application helps improve urban mobility by:
 
 •	Reducing traffic caused by drivers searching for parking.
+
 •	Providing real-time data that can inform urban planning and parking policy decisions.
+
 •	Supporting electric vehicle adoption by offering data on available charging stations.
 
 Additionally, this system could also be valuable in the Transportation and Logistics sector, where efficient space allocation, traffic management, and cost optimization play a critical role.
@@ -72,10 +81,15 @@ Additionally, this system could also be valuable in the Transportation and Logis
 **Methods Used:**
 
   - IoT - Real-time dataset having readings from sensors
+    
   - Exploratory Data Analysis (EDA) process to analyze the real-time IoT dataset
+    
   - Machine Learning for Parking Slot Availability and EV Charging Availability Prediction
+    
   - Time Series Methods for Predicting Parking Slot Availability and EV Charging Availability Prediction
+    
   - Data Visualization - Charts and Report in Tableau
+    
   - Data Manipulation - Augmenting using synthetic data
 
 **Technologies:**
@@ -84,10 +98,6 @@ Additionally, this system could also be valuable in the Transportation and Logis
   - Python Libraries: TensorFlow, PyTorch, NumPy, Matplotlib, Scikit-learn
 
   **Frameworks:** PyTorch, TensorFlow
-
-  **Libraries:** / Model: ...
-
-  **Tools:** ....
 
   **IDE:** Google Colab, VS Code
 
